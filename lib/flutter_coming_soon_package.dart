@@ -1,0 +1,1 @@
+library flutter_coming_soon_package;
